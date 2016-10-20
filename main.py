@@ -6,9 +6,9 @@ import webapp2
 import configuration
 
 
-TOKEN = 'YOUR_TOKEN'
+TOKEN = '244650362:AAFbxcGVlhjA0luZdY1ZRmXLNtUGHi_zFkk'
 
-MY_URL = "https://YOUR_BOT_URL"
+MY_URL = "https://peyvandgaller1ybot.herokuapp.com/"
 
 BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
 
