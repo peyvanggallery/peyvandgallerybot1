@@ -1,4 +1,5 @@
-application: botprojectversion: 1
+application: peyvandgaller1ybot
+version: 1
 runtime: python27
 api_version: 1
 threadsafe: yes
